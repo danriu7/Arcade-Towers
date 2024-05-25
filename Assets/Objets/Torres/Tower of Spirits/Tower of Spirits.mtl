@@ -1,0 +1,8 @@
+newmtl g_tower1
+Ka 0 0 0
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka g_tower1.png
+map_Kd g_tower1.png
+map_d g_tower1.png
